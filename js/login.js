@@ -1,3 +1,3 @@
 (function(w) {
-    console.log(login)
+    console.log("login")
 })(window)
