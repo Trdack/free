@@ -15,7 +15,7 @@ html,body {
     box-sizing: border-box;
 }
 
-@media s {
+@media a {
     
 }
 
@@ -27,7 +27,7 @@ html,body {
 
 .main {
     margin: 0 auto;
-    width: 1200px;
+    max-width: 1200px;
 }
 
 .main .card {
