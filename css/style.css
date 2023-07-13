@@ -15,6 +15,16 @@ html,body {
     box-sizing: border-box;
 }
 
+@media s {
+    
+}
+
+.top .content {
+    width: 1200px;
+}
+
+
+
 .main {
     margin: 0 auto;
     width: 1200px;
@@ -28,3 +38,14 @@ html,body {
     box-shadow: 1px 1px 3px #333;
 
 }
+
+.card .count_time{
+    font-size: 30px;
+}
+
+.card .count_time .lasting_time {
+    text-align: center;
+    font-size: 60px;
+    color: green;
+}
+
