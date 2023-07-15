@@ -15,15 +15,9 @@ html,body {
     box-sizing: border-box;
 }
 
-@media a {
-    
-}
-
 .top .content {
     width: 1200px;
 }
-
-
 
 .main {
     margin: 0 auto;
